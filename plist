@@ -90,5 +90,15 @@ http://www.heart.org/HEARTORG/Conditions/Arrhythmia/SymptomsDiagnosisMonitoringo
 <key>name</key>
 <string>Syncope</string>
 </dict>
+<dict>
+<key>protocol</key>
+<string>
+http://www.medprotocol.com
+</string>
+<key>category</key>
+<string>Dx</string>
+<key>name</key>
+<string>MedProtocol</string>
+</dict>
 </array>
 </plist>
