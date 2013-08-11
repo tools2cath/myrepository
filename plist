@@ -91,9 +91,7 @@
 
 <dict>
 <key>protocol</key>
-<string>
-http://www.google.com
-</string>
+<string>http://www.google.com</string>
 <key>category</key>
 <string>Dx</string>
 <key>name</key>
