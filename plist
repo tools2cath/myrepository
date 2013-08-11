@@ -2,9 +2,7 @@
 <array>
 <dict>
 <key>protocol</key>
-<string>
-http://www.mayoclinic.com/health/high-blood-pressure/DS00100
-</string>
+<string>http://www.mayoclinic.com/health/high-blood-pressure/DS00100</string>
 <key>category</key>
 <string>Follow</string>
 <key>name</key>
@@ -12,9 +10,7 @@ http://www.mayoclinic.com/health/high-blood-pressure/DS00100
 </dict>
 <dict>
 <key>protocol</key>
-<string>
-http://www.mayoclinic.com/health/high-blood-pressure/DS00100
-</string>
+<string>http://www.mayoclinic.com/health/high-blood-pressure/DS00100</string>
 <key>category</key>
 <string>Follow</string>
 <key>name</key>
@@ -46,9 +42,7 @@ http://www.mayoclinic.com/health/high-blood-pressure/DS00100
 </dict>
 <dict>
 <key>protocol</key>
-<string>
-http://www.mayoclinic.com/health/chest-pain/DS00016
-</string>
+<string>http://www.mayoclinic.com/health/chest-pain/DS00016</string>
 <key>category</key>
 <string>Dx</string>
 <key>name</key>
@@ -64,9 +58,7 @@ http://www.mayoclinic.com/health/chest-pain/DS00016
 </dict>
 <dict>
 <key>protocol</key>
-<string>
-http://www.nlm.nih.gov/medlineplus/ency/article/003081.htm
-</string>
+<string>http://www.nlm.nih.gov/medlineplus/ency/article/003081.htm</string>
 <key>category</key>
 <string>Dx</string>
 <key>name</key>
@@ -82,9 +74,7 @@ http://www.nlm.nih.gov/medlineplus/ency/article/003081.htm
 </dict>
 <dict>
 <key>protocol</key>
-<string>
-http://www.heart.org/HEARTORG/Conditions/Arrhythmia/SymptomsDiagnosisMonitoringofArrhythmia/Syncope-Fainting_UCM_430006_Article.jsp
-</string>
+<string>http://www.heart.org/HEARTORG/Conditions/Arrhythmia/SymptomsDiagnosisMonitoringofArrhythmia/Syncope-Fainting_UCM_430006_Article.jsp</string>
 <key>category</key>
 <string>Dx</string>
 <key>name</key>
@@ -92,9 +82,7 @@ http://www.heart.org/HEARTORG/Conditions/Arrhythmia/SymptomsDiagnosisMonitoringo
 </dict>
 <dict>
 <key>protocol</key>
-<string>
-http://www.medprotocol.com
-</string>
+<string>http://www.medprotocol.com</string>
 <key>category</key>
 <string>Dx</string>
 <key>name</key>
