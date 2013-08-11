@@ -97,5 +97,14 @@
 <key>name</key>
 <string>Google</string>
 </dict>
+
+<dict>
+<key>protocol</key>
+<string>http://www.nejm.org</string>
+<key>category</key>
+<string>Dx</string>
+<key>name</key>
+<string>NEJM</string>
+</dict>
 </array>
 </plist>
